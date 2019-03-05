@@ -16,6 +16,7 @@
     "gzip": "gzip -r -k build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "serve": "serve -s build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
