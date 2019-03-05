@@ -1,6 +1,6 @@
 {
   "name": "dappnode-pioneers-new",
-  "homepage": "http://dapplion.github.io/dappnode-pioneers",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "gzip": "gzip -r -k build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "publish": "react-scripts build && rm build/static/js/*.map && node ./ipfsDwebUploader build/",
     "serve": "serve -s build",
     "eject": "react-scripts eject"
   },
@@ -29,6 +30,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "ipfs-http-client": "^29.1.1"
   }
 }
