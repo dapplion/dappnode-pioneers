@@ -1,41 +1,38 @@
 html,
 body,
 .root {
-  --bg-color: #171617;
-  --text-color: #c7cecc;
   height: 100%;
+  background-color: #171617 !important;
+  color: #c7cecc;
 }
 
 html {
   box-sizing: border-box;
-  background: var(--bg-color);
-  color: var(--text-color);
+  background-color: #171617 !important;
+  color: #c7cecc;
 }
 
 body {
   margin: 0;
   padding: 0;
-
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+    monospace !important;
   line-height: 1.15;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-header {
+.userInfo {
+  margin: 10px;
+}
+
+.header {
   font-size: 3em;
   margin-bottom: 0.5em;
 }
 
-footer {
-  opacity: 0.3;
-}
-
-.names {
-  -webkit-column-width: 150px;
-  -moz-column-width: 150px;
-  column-width: 150px;
+.footer {
+  opacity: 0.4;
 }
 
 /* Layout */
@@ -88,11 +85,11 @@ footer {
   width: 100%;
   background: linear-gradient(
     5deg,
-    var(--bg-color),
-    var(--bg-color),
+    #171617,
+    #171617,
     transparent,
-    var(--bg-color),
-    var(--bg-color)
+    #171617,
+    #171617
   );
   background-size: 200% 200%;
 
@@ -116,7 +113,7 @@ img {
 }
 
 a {
-  color: var(--text-color);
+  color: #c7cecc !important;
 }
 
 code {
@@ -141,17 +138,17 @@ code {
   flex-wrap: wrap;
 }
 
-.wrapper p {
-  max-width: 480px;
-  text-align: center;
-}
-
 footer {
   text-align: center;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.avatar {
+  width: 45px;
+  filter: grayscale(20%);
 }
 
 /* Background animation */
