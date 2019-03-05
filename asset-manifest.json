@@ -1,16 +1,16 @@
 {
-  "main.css": "/dappnode-pioneers/static/css/main.7ea297d9.chunk.css",
-  "main.js": "/dappnode-pioneers/static/js/main.b7b93e2f.chunk.js",
-  "main.js.map": "/dappnode-pioneers/static/js/main.b7b93e2f.chunk.js.map",
+  "main.css": "/dappnode-pioneers/static/css/main.03f0a84b.chunk.css",
+  "main.js": "/dappnode-pioneers/static/js/main.6aafefe9.chunk.js",
+  "main.js.map": "/dappnode-pioneers/static/js/main.6aafefe9.chunk.js.map",
   "runtime~main.js": "/dappnode-pioneers/static/js/runtime~main.d34d0502.js",
   "runtime~main.js.map": "/dappnode-pioneers/static/js/runtime~main.d34d0502.js.map",
   "static/css/2.0391fb14.chunk.css": "/dappnode-pioneers/static/css/2.0391fb14.chunk.css",
   "static/js/2.e7f7481c.chunk.js": "/dappnode-pioneers/static/js/2.e7f7481c.chunk.js",
   "static/js/2.e7f7481c.chunk.js.map": "/dappnode-pioneers/static/js/2.e7f7481c.chunk.js.map",
   "index.html": "/dappnode-pioneers/index.html",
-  "precache-manifest.abf018d90730e5b679cd4f0f50ad2714.js": "/dappnode-pioneers/precache-manifest.abf018d90730e5b679cd4f0f50ad2714.js",
+  "precache-manifest.f45969f337b729e2a76fe9b2aa34d75a.js": "/dappnode-pioneers/precache-manifest.f45969f337b729e2a76fe9b2aa34d75a.js",
   "service-worker.js": "/dappnode-pioneers/service-worker.js",
   "static/css/2.0391fb14.chunk.css.map": "/dappnode-pioneers/static/css/2.0391fb14.chunk.css.map",
-  "static/css/main.7ea297d9.chunk.css.map": "/dappnode-pioneers/static/css/main.7ea297d9.chunk.css.map",
+  "static/css/main.03f0a84b.chunk.css.map": "/dappnode-pioneers/static/css/main.03f0a84b.chunk.css.map",
   "static/media/dappnode-logo.png": "/dappnode-pioneers/static/media/dappnode-logo.db33a17a.png"
 }

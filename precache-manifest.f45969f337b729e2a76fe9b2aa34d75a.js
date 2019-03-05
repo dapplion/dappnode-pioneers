@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/dappnode-pioneers/static/js/runtime~main.d34d0502.js"
   },
   {
-    "revision": "b7b93e2ffdf93f7e7306",
-    "url": "/dappnode-pioneers/static/js/main.b7b93e2f.chunk.js"
+    "revision": "6aafefe9e94ac231eb67",
+    "url": "/dappnode-pioneers/static/js/main.6aafefe9.chunk.js"
   },
   {
     "revision": "e7f7481c80bfcd8e0671",
     "url": "/dappnode-pioneers/static/js/2.e7f7481c.chunk.js"
   },
   {
-    "revision": "b7b93e2ffdf93f7e7306",
-    "url": "/dappnode-pioneers/static/css/main.7ea297d9.chunk.css"
+    "revision": "6aafefe9e94ac231eb67",
+    "url": "/dappnode-pioneers/static/css/main.03f0a84b.chunk.css"
   },
   {
     "revision": "e7f7481c80bfcd8e0671",
     "url": "/dappnode-pioneers/static/css/2.0391fb14.chunk.css"
   },
   {
-    "revision": "6389ab715191780708f0c86037101a3d",
+    "revision": "51cab123510de08ff6b73b13be72949d",
     "url": "/dappnode-pioneers/index.html"
   }
 ];
